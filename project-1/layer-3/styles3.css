@@ -1,0 +1,17 @@
+* {
+    background-color: yellow;
+    color: black;
+    font-family: monospace;
+}
+
+a:hover {
+    text-decoration: none;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 50px;
+}
+
